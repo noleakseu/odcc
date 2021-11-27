@@ -1,0 +1,12 @@
+<resources>
+    <string name="certificate">Sertifikatas</string>
+    <string name="name">Vardas</string>
+    <string name="dob">Gimimo data</string>
+    <string name="content">Turinys</string>
+
+    <string name="about">Apie programėlę</string>
+    <string name="version">Versija</string>
+    <string name="privacy">Privatumo politika</string>
+    <string name="privacy_text">Programėlė nerenka jokių duomenų. Jokių skelbimų, jokių stebėjimo priemonių. Norint nuskaityti QR kodus, reikalingi fotoaparato leidimai.</string>
+    <string name="code">Pirminis kodas</string>
+</resources>

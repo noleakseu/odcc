@@ -1,0 +1,12 @@
+<resources>
+    <string name="certificate">Certificado</string>
+    <string name="name">Nombre</string>
+    <string name="dob">Fecha de cumpleaños</string>
+    <string name="content">Contenido</string>
+
+    <string name="about">Acerca de</string>
+    <string name="version">Versión</string>
+    <string name="privacy">Política de privacidad</string>
+    <string name="privacy_text">La aplicación no recopila ningún dato. Sin anuncios, sin rastreadores. Se requieren permisos de la cámara para escanear códigos QR.</string>
+    <string name="code">Código fuente</string>
+</resources>

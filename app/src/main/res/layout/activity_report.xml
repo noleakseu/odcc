@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="false"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="8sp"
+                android:drawablePadding="8dp"
+                android:text="@string/name"
+                android:drawableStart="@drawable/info_icon"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/names"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="8sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="8sp"
+                android:drawablePadding="8dp"
+                android:text="@string/dob"
+                android:drawableStart="@drawable/info_icon"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/datesOfBirth"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="8sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableStart="@drawable/content_icon"
+                android:drawablePadding="8dp"
+                android:padding="8sp"
+                android:text="@string/content"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/report"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="8sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="certificate">Certificaat</string>
+    <string name="name">Naam</string>
+    <string name="dob">Geboortedatum</string>
+    <string name="content">Inhoud</string>
+
+    <string name="about">Over app</string>
+    <string name="version">Versie</string>
+    <string name="privacy">Privacybeleid</string>
+    <string name="privacy_text">De app verzamelt geen gegevens. Geen advertenties, geen trackers. Cameratoestemmingen zijn vereist om QR-codes te scannen.</string>
+    <string name="code">Broncode</string>
+</resources>

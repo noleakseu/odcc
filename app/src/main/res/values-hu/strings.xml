@@ -1,0 +1,12 @@
+<resources>
+    <string name="certificate">Bizonyítvány</string>
+    <string name="name">Név</string>
+    <string name="dob">Születési dátum</string>
+    <string name="content">Tartalom</string>
+
+    <string name="about">Az alkalmazásról</string>
+    <string name="version">Változat</string>
+    <string name="privacy">Adatvédelmi irányelvek</string>
+    <string name="privacy_text">Az alkalmazás nem gyűjt adatokat. Nincsenek hirdetések, nincsenek nyomkövetők. A QR-kódok beolvasásához kameraengedélyek szükségesek.</string>
+    <string name="code">Forráskód</string>
+</resources>

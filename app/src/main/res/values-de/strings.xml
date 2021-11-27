@@ -1,0 +1,12 @@
+<resources>
+    <string name="certificate">Zertifikat</string>
+    <string name="name">Name</string>
+    <string name="dob">Geburtsdatum</string>
+    <string name="content">Inhalt</string>
+
+    <string name="about">Über die App</string>
+    <string name="version">Ausführung</string>
+    <string name="privacy">Datenschutz-Bestimmungen</string>
+    <string name="privacy_text">Die App sammelt keine Daten. Keine Werbung, keine Tracker. Zum Scannen von QR-Codes sind Kameraberechtigungen erforderlich.</string>
+    <string name="code">Quellcode</string>
+</resources>

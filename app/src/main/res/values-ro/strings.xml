@@ -1,0 +1,12 @@
+<resources>
+    <string name="certificate">Certificat</string>
+    <string name="name">Nume</string>
+    <string name="dob">Data de nastere</string>
+    <string name="content">Conţinut</string>
+
+    <string name="about">Despre aplicație</string>
+    <string name="version">Versiune</string>
+    <string name="privacy">Politica de confidențialitate</string>
+    <string name="privacy_text">Aplicația nu colectează date. Fără reclame, fără trackere. Permisiunile camerei sunt necesare pentru a scana codurile QR.</string>
+    <string name="code">Cod sursa</string>
+</resources>

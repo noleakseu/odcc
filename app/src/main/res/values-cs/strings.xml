@@ -1,0 +1,12 @@
+<resources>
+    <string name="certificate">Osvědčení</string>
+    <string name="name">Název</string>
+    <string name="dob">Datum narození</string>
+    <string name="content">Obsah</string>
+
+    <string name="about">O aplikaci</string>
+    <string name="version">Verze</string>
+    <string name="privacy">Zásady ochrany osobních údajů</string>
+    <string name="privacy_text">Aplikace neshromažďuje žádná data. Žádné reklamy, žádné sledovače. Ke skenování QR kódů jsou vyžadována oprávnění fotoaparátu.</string>
+    <string name="code">Zdrojový kód</string>
+</resources>

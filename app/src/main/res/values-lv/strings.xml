@@ -1,0 +1,12 @@
+<resources>
+    <string name="certificate">Sertifikāts</string>
+    <string name="name">Vārds</string>
+    <string name="dob">Dzimšanas datums</string>
+    <string name="content">Saturs</string>
+
+    <string name="about">Par lietotni</string>
+    <string name="version">Versija</string>
+    <string name="privacy">Privātuma politika</string>
+    <string name="privacy_text">Lietotne neapkopo nekādus datus. Nav reklāmu, nav izsekotāju. Lai skenētu QR kodus, ir nepieciešamas kameras atļaujas.</string>
+    <string name="code">Avota kods</string>
+</resources>

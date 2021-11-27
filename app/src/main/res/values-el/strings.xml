@@ -1,0 +1,12 @@
+<resources>
+    <string name="certificate">Πιστοποιητικό</string>
+    <string name="name">Ονομα</string>
+    <string name="dob">Ημερομηνια γεννησης</string>
+    <string name="content">Περιεχόμενο</string>
+
+    <string name="about">Σχετικά με την εφαρμογή</string>
+    <string name="version">Εκδοχή</string>
+    <string name="privacy">Πολιτική Απορρήτου</string>
+    <string name="privacy_text">Η εφαρμογή δεν συλλέγει δεδομένα. Χωρίς διαφημίσεις, χωρίς ιχνηλάτες. Απαιτούνται άδειες κάμερας για τη σάρωση κωδικών QR.</string>
+    <string name="code">Πηγαίος κώδικας</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="certificate">Todistus</string>
+    <string name="name">Nimi</string>
+    <string name="dob">Syntymäaika</string>
+    <string name="content">Sisältö</string>
+
+    <string name="about">Tietoja sovelluksesta</string>
+    <string name="version">Versio</string>
+    <string name="privacy">Tietosuojakäytäntö</string>
+    <string name="privacy_text">Sovellus ei kerää tietoja. Ei mainoksia, ei seurantalaitteita. QR-koodien skannaamiseen tarvitaan kameran käyttöoikeudet.</string>
+    <string name="code">Lähdekoodi</string>
+</resources>

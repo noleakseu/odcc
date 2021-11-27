@@ -1,0 +1,12 @@
+<resources>
+    <string name="certificate">Сертификат</string>
+    <string name="name">Имя</string>
+    <string name="dob">Дата рождения</string>
+    <string name="content">Содержимое</string>
+
+    <string name="about">О приложении</string>
+    <string name="version">Версия</string>
+    <string name="privacy">Политика конфиденциальности</string>
+    <string name="privacy_text">Приложение не собирает никаких данных. Ни рекламы, ни трекеров. Для сканирования QR-кодов требуются разрешения камеры.</string>
+    <string name="code">Исходный код</string>
+</resources>

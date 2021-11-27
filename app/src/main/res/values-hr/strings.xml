@@ -1,0 +1,12 @@
+<resources>
+    <string name="certificate">Potvrda</string>
+    <string name="name">Ime</string>
+    <string name="dob">Datum rođenja</string>
+    <string name="content">Sadržaj</string>
+
+    <string name="about">O aplikaciji</string>
+    <string name="version">Verzija</string>
+    <string name="privacy">Politika privatnosti</string>
+    <string name="privacy_text">Aplikacija ne prikuplja nikakve podatke. Bez oglasa, bez tragova. Za skeniranje QR kodova potrebna su dopuštenja za kameru.</string>
+    <string name="code">Izvorni kod</string>
+</resources>

@@ -1,0 +1,11 @@
+build/
+app/release/
+*.log
+.gradle/
+.idea/
+local.properties
+project.key
+project.txt
+assets/*.png
+assets/logo1024x512.svg
+assets/qr.jpg

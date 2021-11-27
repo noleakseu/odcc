@@ -1,0 +1,12 @@
+<resources>
+    <string name="certificate">Certifikat</string>
+    <string name="name">Navn</string>
+    <string name="dob">Fødselsdato</string>
+    <string name="content">Indhold</string>
+
+    <string name="about">Om app</string>
+    <string name="version">Version</string>
+    <string name="privacy">Fortrolighedspolitik</string>
+    <string name="privacy_text">Appen indsamler ingen data. Ingen annoncer, ingen trackere. Kameratilladelser er påkrævet for at scanne QR-koder.</string>
+    <string name="code">Kildekode</string>
+</resources>
