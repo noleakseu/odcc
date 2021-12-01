@@ -2,7 +2,7 @@
   <br>
     <img src="https://github.com/noleakseu/odcc/blob/main/assets/logo.svg?raw=true" width="160">
   <br>
-  Open DCC Reader
+  Open Digital COVID Certificate Reader 
   <br>
   <a href="https://play.google.com/store/apps/details?id=com.github.noleakseu.odcc">Google Play Store</a>
   <br>
