@@ -12,7 +12,7 @@ Yet another DCC reader which respects your privacy.
 You can read the QR-code of any European DCC.
 
 ## Features
-- Offline
+- Works offline
 - 23 languages
 - No ads
 - No tracking

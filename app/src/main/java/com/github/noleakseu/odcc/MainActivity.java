@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
         }).facing(QREader.BACK_CAM)
                 .enableAutofocus(true)
-                .height(surfaceView.getWidth())
+                .height(surfaceView.getHeight())
                 .width(surfaceView.getWidth())
                 .build();
     }
